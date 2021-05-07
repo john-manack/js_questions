@@ -1,5 +1,7 @@
 'use strict';
 
+// What is the output?
+
 function sayHi() {
     console.log(person_name);
     console.log(age);
